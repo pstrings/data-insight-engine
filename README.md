@@ -111,4 +111,4 @@ docker run -v $(pwd):/app data-insight-engine --file data/sample.csv
 
 ## 🧑‍💻 Author
 
-Your Name
+Suyash Sharma
